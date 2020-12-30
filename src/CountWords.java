@@ -34,6 +34,6 @@ public class CountWords {
 		} else {
 			obj.help();
 		}
-//		obj.print();
+
 	}
 }

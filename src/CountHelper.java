@@ -25,9 +25,6 @@ public class CountHelper {
 		FileResource fr = new FileResource();
 		count(fr);
 		System.out.println("Total words: " + total);
-//		for (String w : map.keySet()) {
-//			System.out.println(map.get(w) + "\t" + w);
-//	}
 
 	}
 
