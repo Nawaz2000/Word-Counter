@@ -15,8 +15,18 @@ public class CountWords {
 				if (args.length > 1) {
 					System.out.println("ERROR! No such command exists");
 				} else {
-					obj.print();
+					obj.countWords();
 				}
+				break;
+			case "count-words-display":
+				if (args.length > 1) {
+					System.out.println("ERROR! No such command exists");
+				} else {
+					obj.countWordsAndDisplay();
+				}
+				break;
+			case "help":
+				obj.help();
 				break;
 			default:
 				System.out.println("ERROR! no such command exists!");

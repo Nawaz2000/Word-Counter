@@ -21,17 +21,31 @@ public class CountHelper {
 		}
 	}
 
-	public void print() {
+	public void countWords() {
+		FileResource fr = new FileResource();
+		count(fr);
+		System.out.println("Total words: " + total);
+//		for (String w : map.keySet()) {
+//			System.out.println(map.get(w) + "\t" + w);
+//	}
+
+	}
+
+	public void countWordsAndDisplay() {
 		FileResource fr = new FileResource();
 		count(fr);
 		System.out.println("Total words: " + total);
 		for (String w : map.keySet()) {
 			System.out.println(map.get(w) + "\t" + w);
 		}
+
 	}
 
 	public void help() {
 		System.out.printf("Usage :-\n");
-		System.out.printf("$ ./todo count-words  # launch program\n");
+		System.out.printf("$ ./CountWords help  # Opens the help menu\n");
+		System.out.printf("$ ./CountWords count-words  # launch program and display the number of words\n");
+		System.out.printf(
+				"$ ./CountWords count-words-display  # launch program and display the number of words along with words and their number of occurance\n");
 	}
 }
