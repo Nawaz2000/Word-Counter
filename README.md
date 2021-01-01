@@ -4,6 +4,9 @@ A simple Command Line Application (CLI) to count the number of words in a text f
 # Description
 A CLI made using java. Just enter the commands to know the number of words in any text file. Also check their number of occurances.
 
+# Version
+1.2
+
 # Features
 1. **New Upload window:** Now select your text file from a window opener instead of specifying a path
 2. **Occurance of each word:** Choose between only to see the total number of words or also each word and the number of occurance
@@ -12,20 +15,15 @@ A CLI made using java. Just enter the commands to know the number of words in an
 This is a simple command line program and you must have jdk installed to use it
 ...
 1. Make sure you have java installed in your PC
-2. Clone the entire project into your pc
-3. Head to the bin folder
-4. Open cmd/powershell at the bin folder
-5. For powershell....
-   Use the follwing commands
-   .\CountWords help #To print the help menu
-   .\CountWords count-words #To count words in a file
-   .\CountWords count-words-display #To count words and display number of occurance of each word in the file
-6. For cmd....
-   Use the follwing commands
-   CountWords help #To print the help menu
-   CountWords count-words #To count words in a file
-   CountWords count-words-display #To count words and display number of occurance of each word in the file
-7. Enjoy!
+2. Clone the entire project into your pc or copy only the Executable folder to your desired location
+3. Head to the Executable folder
+6. Double click on the run.bat file
+7. Use the follwing commands...
+      $ help  # Opens the help menu
+      $ count-words  # launch program and display the number of words
+      $ count-words-display  # launch program and display the number of words along with words and their number of occuranceach word in the file
+      $ exit  # Exit!
+8. Enjoy!
 
 # Usage
 Educational purpose....

@@ -40,9 +40,10 @@ public class CountHelper {
 
 	public void help() {
 		System.out.printf("Usage :-\n");
-		System.out.printf("$ ./CountWords help  # Opens the help menu\n");
-		System.out.printf("$ ./CountWords count-words  # launch program and display the number of words\n");
+		System.out.printf("$ help  # Opens the help menu\n");
+		System.out.printf("$ count-words  # launch program and display the number of words\n");
 		System.out.printf(
-				"$ ./CountWords count-words-display  # launch program and display the number of words along with words and their number of occurance\n");
+				"$ count-words-display  # launch program and display the number of words along with words and their number of occurance\n");
+		System.out.println("$ exit  # Exit!\n");
 	}
 }
