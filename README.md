@@ -19,10 +19,10 @@ This is a simple command line program and you must have jdk installed to use it
 3. Head to the Executable folder
 6. Double click on the run.bat file
 7. Use the follwing commands...
-      1. $ help  # Opens the help menu  
-      2. $ count-words  # launch program and display the number of words  
-      3. $ count-words-display  # launch program and display the number of words along with words and their number of occuranceach word in the file  
-      4. $ exit  # Exit!  
+      1. $ **help**  # Opens the help menu  
+      2. $ **count-words**  # launch program and display the number of words  
+      3. $ **count-words-display**  # launch program and display the number of words along with words and their number of occuranceach word in the file  
+      4. $ **exit**  # Exit!  
 8. Enjoy!
 
 # Usage
