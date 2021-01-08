@@ -4,6 +4,18 @@ A simple Command Line Application (CLI) to count the number of words in a text f
 # Description
 A CLI made using java. Just enter the commands to know the number of words in any text file. Also check their number of occurances.
 
+Opening screen
+![alt text](https://github.com/Nawaz2000/Word-Counter/blob/master/Screenshots/Opening-Screen.png)
+
+File Opener Window
+![alt text](https://github.com/Nawaz2000/Word-Counter/blob/master/Screenshots/File-opener.png)
+
+count-words
+![alt text](https://github.com/Nawaz2000/Word-Counter/blob/master/Screenshots/count-words.png)
+
+count-words-display
+![alt text](https://github.com/Nawaz2000/Word-Counter/blob/master/Screenshots/count-words-display.png)
+
 # Version
 1.2
 
