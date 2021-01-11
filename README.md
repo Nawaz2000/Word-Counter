@@ -1,45 +1,65 @@
-# Word-Counter
-A simple Command Line Application (CLI) to count the number of words in a text file.
+<h1 align="center">Welcome to xyzz 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <img src="https://img.shields.io/badge/npm-%3E%3D5.5.0-blue.svg" />
+  <img src="https://img.shields.io/badge/node-%3E%3D9.3.0-blue.svg" />
+  <a href="https://github.com/kefranabg/readme-md-generator#readme" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+  <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  </a>
+  <a href="https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/github/license/kefranabg/xyzz" />
+  </a>
+</p>
 
-# Description
-A CLI made using java. Just enter the commands to know the number of words in any text file. Also check their number of occurances.
+> CLI that generates beautiful README.md files.
 
-Opening screen
-![alt text](https://github.com/Nawaz2000/Word-Counter/blob/master/Screenshots/Opening-Screen.png)
+### 🏠 [Homepage](https://github.com/kefranabg/readme-md-generator#readme)
 
-File Opener Window
-![alt text](https://github.com/Nawaz2000/Word-Counter/blob/master/Screenshots/File-opener.png)
+## Prerequisites
 
-count-words
-![alt text](https://github.com/Nawaz2000/Word-Counter/blob/master/Screenshots/count-words.png)
+- npm >=5.5.0
+- node >=9.3.0
 
-count-words-display
-![alt text](https://github.com/Nawaz2000/Word-Counter/blob/master/Screenshots/count-words-display.png)
+## Install
 
-# Version
-1.2
+```sh
+npm install
+```
 
-# Features
-1. **New Upload window:** Now select your text file from a window opener instead of specifying a path
-2. **Occurance of each word:** Choose between only to see the total number of words or also each word and the number of occurance
+## Usage
 
-# Installation
-This is a simple command line program and you must have jdk installed to use it
-...
-1. Make sure you have java installed in your PC
-2. Clone the entire project into your pc or copy only the Executable folder to your desired location
-3. Head to the Executable folder
-6. Double click on the run.bat file
-7. Use the follwing commands...
-      1. $ **help**  # Opens the help menu  
-      2. $ **count-words**  # launch program and display the number of words  
-      3. $ **count-words-display**  # launch program and display the number of words along with words and their number of occuranceach word in the file  
-      4. $ **exit**  # Exit!  
-8. Enjoy!
+```sh
+npm run start
+```
 
-# Usage
-Educational purpose....
-Don't worry, just make it your own!
+## Run tests
 
-# Project status
-In development stage
+```sh
+npm run test
+```
+
+## Author
+
+👤 **Franck Abgrall**
+
+* Website: https://www.franck-abgrall.me/
+* GitHub: [@kefranabg](https://github.com/kefranabg)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/kefranabg/readme-md-generator/issues). You can also take a look at the [contributing guide](https://github.com/kefranabg/readme-md-generator/blob/master/CONTRIBUTING.md).
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## 📝 License
+
+Copyright © 2021 [Franck Abgrall](https://github.com/kefranabg).<br />
+This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
