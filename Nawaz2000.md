@@ -1,4 +1,4 @@
-<h2> Hello there! I'm Nawaz. <img src="https://media.giphy.com/media/LPgFwCQg4HQBvPihcn/giphy.gif" width="25"></h2>
+<h2> Hello there! I'm Nawaz. <img src="https://media.giphy.com/media/3o7bukPWLMVsRz38J2/giphy.gif" width="50"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
