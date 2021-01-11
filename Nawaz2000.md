@@ -1,4 +1,4 @@
-<h2> Hello there! I'm Nawaz. <img src="<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/LPgFwCQg4HQBvPihcn" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/sesamestreet-sesame-street-50th-anniversary-LPgFwCQg4HQBvPihcn">via GIPHY</a></p>" width="25"></h2>
+<h2> Hello there! I'm Nawaz. <img src="https://gph.is/g/4g17Jb9" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
